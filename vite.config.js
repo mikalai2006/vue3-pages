@@ -5,7 +5,7 @@ import path from "path";
 export default ({ mode }) => {
   return defineConfig({
     plugins: [vue()],
-    base: mode === "production" ? "/vue3-pages/" : "/",
+    base: "/vue3-pages/", // mode === "production" ? "/vue3-pages/" : "/",
     resolve: {
       alias: {
         "@": path.resolve(__dirname, "/src"),

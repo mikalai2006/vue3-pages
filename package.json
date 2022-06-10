@@ -20,13 +20,13 @@
     "@tailwindcss/forms": "^0.3.3",
     "@tailwindcss/line-clamp": "^0.2.1",
     "@tailwindcss/typography": "^0.4.1",
-    "@types/tailwindcss": "^2.2.1",
+    "@types/tailwindcss": "^3.0.10",
     "@vitejs/plugin-vue": "^1.2.5",
     "@vue/compiler-sfc": "^3.2.0-beta.1",
     "autoprefixer": "^10.4.2",
     "l-vueso": "file:../../ui/l-vueso/l-vueso-0.0.21.tgz",
     "postcss": "^8.4.8",
-    "tailwindcss": "^2.2.19",
+    "tailwindcss": "^3.1.1",
     "vite": "^2.4.2"
   }
 }

@@ -1,0 +1,1 @@
+import{j as r,k as m}from"./index.453b3a08.js";const t=r({header:null,footer:null}),b=()=>{const e=s=>{var n;((n=s.content)==null?void 0:n.global).forEach(l=>{const o=l.reference;if(o.content){const a=o.name;t[a]=o.content}})},c=m(()=>t);return{onSetComponents:e,globalComponents:c}};export{b as u};

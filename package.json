@@ -23,7 +23,7 @@
     "@types/tailwindcss": "^2.2.1",
     "@vitejs/plugin-vue": "^1.2.5",
     "@vue/compiler-sfc": "^3.2.0-beta.1",
-    "autoprefixer": "^10.4.2",
+    "autoprefixer": "^10.4.8",
     "l-vueso": "file:../../ui/l-vueso/l-vueso-0.0.21.tgz",
     "postcss": "^8.4.8",
     "tailwindcss": "^2.2.19",

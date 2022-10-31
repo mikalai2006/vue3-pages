@@ -27,6 +27,6 @@
     "l-vueso": "file:../../ui/l-vueso/l-vueso-0.0.21.tgz",
     "postcss": "^8.4.8",
     "tailwindcss": "^2.2.19",
-    "vite": "^2.4.2"
+    "vite": "^3.2.1"
   }
 }
